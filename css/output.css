@@ -1320,6 +1320,14 @@ input:checked + .toggle-bg {
   height: 72px;
 }
 
+.h-52 {
+  height: 13rem;
+}
+
+.h-72 {
+  height: 18rem;
+}
+
 .w-1\/2 {
   width: 50%;
 }
@@ -1750,6 +1758,11 @@ input:checked + .toggle-bg {
 
 .to-teal-600 {
   --tw-gradient-to: #047481 var(--tw-gradient-to-position);
+}
+
+.object-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .p-1 {
