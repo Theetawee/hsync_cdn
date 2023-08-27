@@ -1,1 +1,6 @@
 @tailwind base;@tailwind components;@tailwind utilities;*{font-family: 'Open Sans', sans-serif;}
+.active-nav{
+    border-right:4px solid #14b8a6;
+    background-color: #ccfbf1 !important;
+
+}
